@@ -1,0 +1,31 @@
+BLACKJACK Kurallar Özeti	
+
+-Oyuncu sayısını sorma max 7 kişi 
+-Bahis başlangıcı 25$
+-Oyun kurucu en son kendisine kart dağıtır
+-Girilen oyuncu sayısı + oyun kurucu
+-Deste sayısı 4 ve veya 8 arasındadır sayı arttıkça oyuncunun kazanma ihtimali azalır
+-2 den 10 a kadar olanlar üzerindeki değere sahiptir
+-Vale, Kız, Papaz 10 değerine sahiptir
+-As 1 veya 11 dir
+-Hedef 21 yapamak veya olabildiğince yaklaşmaktır
+-21 sayısını geçmek oyunu kaybettirir
+-Eğer 21 ulaşılamamışsa kasadan daha büyük bir sayıya sahip olunmalıdır
+-Oyuncu turu kazanırsa 1:1 oranında odeme alır
+-Oyuncu oyun başında dağıtılan 2 kart ile 21 yaparsa 1:1,5 alır
+-Oyuncu tur başında 21 ile başlarsa odemeyi hemen alır
+-Oyuncuya 21 yaptığında ödemenin yapılmadığı tek koşul kasanın açık kartının resimli veya as olmasıdır
+-Eğer kasa oyuncuyla aynı anda 21 yaparsa bahisler geri dağıtılır
+-Kasa kartları solundan sağına doğru dağıtır kasa en son kendisine kart dağıtır
+-Kasa kartları oyunculara açık dağıtırken sadece ilk kartı kendisine kapalı dağıtır
+-İlk turda eğer kasanın ilk kartı as ise oyunculara bahsin yarısı kadar sigorta seçeneği sunulur
+-Eğer kasa üst koşulda 21 yaparsa oyuncu bahsini kaybeder eğer sigorta yaptıysa 1:1 oranda bahis alır
+-Eğer kasada 21 yoksa kasa soldan sağa doğru oyunculara ne yapmak istediklerini sorar 
+-Eğer kasanın kartları 17 den küçükse 17 veya üstüne ulaşana kadar kart çeker
+-eğer 21 i geçerse kasa kaybeder ve herkese odeme yapılır
+
+
+
+BLACKJACK TO-DO LİSTESİ
+-Rastgele numara çeken fonksiyon tanımı 
+-Çekilen numaraları toplayan fonksiyon tanımı 
